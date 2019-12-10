@@ -87,6 +87,7 @@ languages-paradigms
 languages-theory
 ├── Ernst-Predicate_Dispatch.pdf
 ├── Fisher-Control_Structures_for_Programming_Languages.pdf
+├── Schorre-META-II_A_Syntax-oriented_Compiler_Writing_Language.pdf
 └── Strachey-Fundamental_Concepts_in_Programming_Languages.pdf
 listing.txt [error opening dir]
 logic_and_programming
@@ -123,4 +124,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-14 directories, 37 files
+14 directories, 38 files
