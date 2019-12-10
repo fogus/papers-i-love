@@ -1,0 +1,122 @@
+README.md [error opening dir]
+affective-computing
+android
+api_design
+applications
+├── Kay-Opening_the_Hood_of_a_Word_Processor.pdf
+├── Teitleman-Interlisp_Programming_Environment.pdf
+└── Weinreb-Lisp_Machine_Manual.pdf
+artificial_intelligence
+├── Lenat-Beings.pdf
+└── McCarthy-Programs_With_Common_Sense.pdf
+audio_comp_sci
+biocomputing
+caching
+└── Jiang-LIRS_An_Efficient_Low_Interreference_Recency_Set_Replacement_Policy_to_Improve_Buffer_Cache_Performance.pdf
+combinatory_logic
+comp_sci_fundamentals_and_history
+├── Hoare-An_Axiomatic_Basis_for_Computer_Programming.pdf
+├── McCarthy-Recursive_Functions_of_Symbolic_Expressions_and_Their_Computation_by_Machine_Part_1.pdf
+└── Stoyan-Early_LISP_History_1956-1959.pdf
+computational_creativity
+└── Michie-The_Creative_Computer.pdf
+computer_architecture
+└── Barton-A_New_Approach_to_the_Functional_Design_of_a_New_Computer.pdf
+computer_education
+computer_graphics
+computer_vision
+concurrency
+crash_only
+cryptography
+data_compression
+data_fusion
+data_replication
+data_science
+data_structures
+└── Bagwell-Ideal_Hash_Trees.pdf
+datastores
+├── Amazon-Dynamo_Amazons_Highly_Available_Key-Value_Store.pdf
+└── Google-Bigtable_A_Distributed_System_for_Structured_Data.pdf
+design
+└── Moseley-Out_of_the_Tarpit.pdf
+digital_currency
+└── Nakamoto-Bitcoin_A_Peer-to-Peer_Electronic_Cash_System.pdf
+distributed_systems
+├── Hewitt-A_Universal_Modular-ACTOR_Formalism.pdf
+├── Lamport-Time_Clocks_and_the_Ordering_of_Events_in_a_Distributed_System.pdf
+└── Licklider-Intergalactic_Network.pdf
+economics
+ethics
+├── Nelson-ComputerLib_DreamMachines.pdf
+└── culture
+experimental_algorithmics
+faults_and_verification
+game_theory
+gamification
+garbage_collection
+└── Edwards-LISP_II_Garbage_Collector.pdf
+gossip
+information_retrieval
+information_theory
+intelligence_amplification
+├── Engelbart-Augmenting_Human_Intellect.pdf
+└── Licklider-Man-Computer_Symbiosis.pdf
+languages
+├── clojure
+├── domain-specific-languages
+├── erlang
+├── forth
+│   └── Moore-Forth_The_Early_Years.pdf
+├── haskell
+├── lisp
+│   └── McCarthy-LISP_15_Programmers_Manual.pdf
+└── smalltalk
+    └── Kay-The_Early_History_of_Smalltalk.pdf
+languages-paradigms
+├── Backus-Can_Programming_Be_Liberated.pdf
+├── Baker-Equal_Rights_for_Functional_Objects.pdf
+├── Hughes-Why_Functional_Programming_Matters.pdf
+├── Ungar-Organizing_Programs_Without_Classes.pdf
+├── functional_programming
+├── functional_reactive_programming
+├── new_paradigms
+└── object_oriented_programming
+languages-theory
+├── Ernst-Predicate_Dispatch.pdf
+├── Fisher-Control_Structures_for_Programming_Languages.pdf
+└── Strachey-Fundamental_Concepts_in_Programming_Languages.pdf
+logic_and_programming
+└── Hewitt-Middle_History_of_Logic_Programming.pdf
+machine_learning
+└── dimensionality_reduction
+macros
+mathematics
+memory_management
+networks
+non_blocking_algorithms
+operating_systems
+└── Lampson-Hints_for_Computer_System_Design.pdf
+pattern_matching
+pattern_stringology
+physics
+privacy
+processes
+quantum_computing
+robotics
+security
+simulation
+software_engineering_orgs
+speech_recognition
+sports_analytics
+streaming_algorithms
+sublinear_algorithms
+systematic_review
+systems_modeling
+testing
+└── tdd
+time_series
+unikernels
+user_interfaces
+virtual_machines
+
+14 directories, 35 files
