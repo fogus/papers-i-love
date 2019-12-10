@@ -22,7 +22,8 @@ comp_sci_fundamentals_and_history
 computational_creativity
 └── Michie-The_Creative_Computer.pdf
 computer_architecture
-└── Barton-A_New_Approach_to_the_Functional_Design_of_a_New_Computer.pdf
+├── Barton-A_New_Approach_to_the_Functional_Design_of_a_New_Computer.pdf
+└── Knight-CONS.pdf
 computer_education
 computer_graphics
 computer_vision
@@ -128,4 +129,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-14 directories, 42 files
+14 directories, 43 files
