@@ -8,7 +8,8 @@ applications
 └── Weinreb-Lisp_Machine_Manual.pdf
 artificial_intelligence
 ├── Lenat-Beings.pdf
-└── McCarthy-Programs_With_Common_Sense.pdf
+├── McCarthy-Programs_With_Common_Sense.pdf
+└── Winograd-Procedures_as_a_Representation_for_Data_in_a_Computer_Program_for_Understanding_Natural_Language.pdf
 audio_comp_sci
 biocomputing
 caching
@@ -60,6 +61,7 @@ gossip
 information_retrieval
 information_theory
 intelligence_amplification
+├── Bush-As_We_May_Think.pdf
 ├── Engelbart-Augmenting_Human_Intellect.pdf
 └── Licklider-Man-Computer_Symbiosis.pdf
 interviews
@@ -124,4 +126,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-14 directories, 38 files
+14 directories, 40 files
