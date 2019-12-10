@@ -62,6 +62,8 @@ information_theory
 intelligence_amplification
 ├── Engelbart-Augmenting_Human_Intellect.pdf
 └── Licklider-Man-Computer_Symbiosis.pdf
+interviews
+└── Aspray-Licklider_Interview.pdf
 languages
 ├── clojure
 ├── domain-specific-languages
@@ -121,4 +123,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-14 directories, 36 files
+14 directories, 37 files
