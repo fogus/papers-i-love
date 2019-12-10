@@ -62,7 +62,9 @@ information_retrieval
 information_theory
 intelligence_amplification
 ├── Bush-As_We_May_Think.pdf
+├── Bush-Memex_Revisited.pdf
 ├── Engelbart-Augmenting_Human_Intellect.pdf
+├── Engelbart-Improving_Our_Ability_to_Improve.pdf
 └── Licklider-Man-Computer_Symbiosis.pdf
 interviews
 └── Aspray-Licklider_Interview.pdf
@@ -126,4 +128,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-14 directories, 40 files
+14 directories, 42 files
