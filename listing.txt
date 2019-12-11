@@ -52,6 +52,7 @@ distributed_systems
 └── Licklider-Intergalactic_Network.pdf
 economics
 ethics
+├── Lapham-The_Eternal_Now.pdf
 ├── Nelson-ComputerLib_DreamMachines.pdf
 └── culture
 experimental_algorithmics
@@ -136,4 +137,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-14 directories, 50 files
+14 directories, 51 files
