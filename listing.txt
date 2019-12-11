@@ -38,7 +38,8 @@ data_fusion
 data_replication
 data_science
 data_structures
-└── Bagwell-Ideal_Hash_Trees.pdf
+├── Bagwell-Ideal_Hash_Trees.pdf
+└── Blelloch-Reis-Miller-Fast_Set_Ops_with_Treaps.pdf
 datastores
 ├── Amazon-Dynamo_Amazons_Highly_Available_Key-Value_Store.pdf
 └── Google-Bigtable_A_Distributed_System_for_Structured_Data.pdf
@@ -139,4 +140,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-14 directories, 52 files
+14 directories, 53 files
