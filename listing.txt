@@ -9,6 +9,7 @@ applications
 artificial_intelligence
 ├── Lenat-Beings.pdf
 ├── McCarthy-Programs_With_Common_Sense.pdf
+├── Minsky-Steps_Toward_Artificial_Intelligence.pdf
 └── Winograd-Procedures_as_a_Representation_for_Data_in_a_Computer_Program_for_Understanding_Natural_Language.pdf
 audio_comp_sci
 biocomputing
@@ -52,9 +53,6 @@ distributed_systems
 └── Licklider-Intergalactic_Network.pdf
 economics
 ethics
-├── Lapham-The_Eternal_Now.pdf
-├── Nelson-ComputerLib_DreamMachines.pdf
-└── culture
 experimental_algorithmics
 faults_and_verification
 game_theory
@@ -116,6 +114,10 @@ operating_systems
 └── Lampson-Hints_for_Computer_System_Design.pdf
 pattern_matching
 pattern_stringology
+philosophy
+├── Lapham-The_Eternal_Now.pdf
+├── Nelson-ComputerLib_DreamMachines.pdf
+└── culture
 physics
 privacy
 processes
@@ -137,4 +139,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-14 directories, 51 files
+14 directories, 52 files
