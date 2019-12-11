@@ -80,6 +80,7 @@ languages
 ├── lisp
 │   └── McCarthy-LISP_15_Programmers_Manual.pdf
 └── smalltalk
+    ├── Ingalls-Design_Principles_Behind_Smalltalk.pdf
     └── Kay-The_Early_History_of_Smalltalk.pdf
 languages-paradigms
 ├── Backus-Can_Programming_Be_Liberated.pdf
@@ -131,4 +132,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-14 directories, 45 files
+14 directories, 46 files
