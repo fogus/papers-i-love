@@ -25,7 +25,8 @@ computational_creativity
 └── Michie-The_Creative_Computer.pdf
 computer_architecture
 ├── Barton-A_New_Approach_to_the_Functional_Design_of_a_New_Computer.pdf
-└── Knight-CONS.pdf
+├── Knight-CONS.pdf
+└── Sussman-Building_Robust_Systems.pdf
 computer_education
 computer_graphics
 computer_vision
@@ -51,7 +52,8 @@ digital_currency
 distributed_systems
 ├── Hewitt-A_Universal_Modular-ACTOR_Formalism.pdf
 ├── Lamport-Time_Clocks_and_the_Ordering_of_Events_in_a_Distributed_System.pdf
-└── Licklider-Intergalactic_Network.pdf
+├── Licklider-Intergalactic_Network.pdf
+└── Sussman-Art_of_the_Propagator.pdf
 economics
 ethics
 experimental_algorithmics
@@ -118,6 +120,8 @@ pattern_stringology
 philosophy
 ├── Lapham-The_Eternal_Now.pdf
 ├── Nelson-ComputerLib_DreamMachines.pdf
+├── Nelson-The_Crafting_of_Media.pdf
+├── Sussman-Robust_Design_Through_Diversity.pdf
 └── culture
 physics
 privacy
@@ -140,4 +144,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-14 directories, 53 files
+14 directories, 57 files
