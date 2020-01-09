@@ -117,6 +117,7 @@ networks
 non_blocking_algorithms
 operating_systems
 ├── Dunkels-Contiki.pdf
+├── Lampson-An_Open_Operating_System_for_a_Single-User_Machine.pdf
 └── Lampson-Hints_for_Computer_System_Design.pdf
 pattern_matching
 pattern_stringology
@@ -149,4 +150,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-14 directories, 61 files
+14 directories, 62 files
