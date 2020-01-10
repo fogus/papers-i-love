@@ -88,6 +88,7 @@ languages
 │   ├── Hart-MACRO_Definitions_for_LISP.pdf
 │   └── McCarthy-LISP_15_Programmers_Manual.pdf
 └── smalltalk
+    ├── Goldberg-Smalltalk-72_Instruction_Manual.pdf
     ├── Ingalls-Design_Principles_Behind_Smalltalk.pdf
     └── Kay-The_Early_History_of_Smalltalk.pdf
 languages-paradigms
@@ -150,4 +151,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-14 directories, 62 files
+14 directories, 63 files
