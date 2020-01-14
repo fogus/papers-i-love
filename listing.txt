@@ -103,6 +103,7 @@ languages-paradigms
 languages-theory
 ├── Ernst-Predicate_Dispatch.pdf
 ├── Fisher-Control_Structures_for_Programming_Languages.pdf
+├── Iverson-Notation_as_a_Tool_of_Thought.pdf
 ├── Schorre-META-II_A_Syntax-oriented_Compiler_Writing_Language.pdf
 └── Strachey-Fundamental_Concepts_in_Programming_Languages.pdf
 listing.txt [error opening dir]
@@ -151,4 +152,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-14 directories, 63 files
+14 directories, 64 files
