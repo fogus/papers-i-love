@@ -4,6 +4,7 @@ android
 api_design
 applications
 ├── Kay-Opening_the_Hood_of_a_Word_Processor.pdf
+├── McCarthy-Mars.pdf
 ├── Sutherland-Sketchpad_Report.pdf
 ├── Teitleman-Interlisp_Programming_Environment.pdf
 └── Weinreb-Lisp_Machine_Manual.pdf
@@ -152,4 +153,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-14 directories, 64 files
+14 directories, 65 files
