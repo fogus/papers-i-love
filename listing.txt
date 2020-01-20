@@ -86,6 +86,7 @@ languages
 │   └── Moore-Forth_The_Early_Years.pdf
 ├── haskell
 ├── lisp
+│   ├── Abelson_Sussman-Lisp_a_Language_for_Stratified_Design.pdf
 │   ├── Hart-MACRO_Definitions_for_LISP.pdf
 │   └── McCarthy-LISP_15_Programmers_Manual.pdf
 └── smalltalk
@@ -153,4 +154,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-14 directories, 65 files
+14 directories, 66 files
