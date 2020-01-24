@@ -89,6 +89,8 @@ languages
 │   ├── Abelson_Sussman-Lisp_a_Language_for_Stratified_Design.pdf
 │   ├── Hart-MACRO_Definitions_for_LISP.pdf
 │   └── McCarthy-LISP_15_Programmers_Manual.pdf
+├── prolog
+│   └── Naish-Higher-order_Logic_Programming_in_Prolog.pdf
 └── smalltalk
     ├── Goldberg-Smalltalk-72_Instruction_Manual.pdf
     ├── Ingalls-Design_Principles_Behind_Smalltalk.pdf
@@ -107,7 +109,8 @@ languages-theory
 ├── Fisher-Control_Structures_for_Programming_Languages.pdf
 ├── Iverson-Notation_as_a_Tool_of_Thought.pdf
 ├── Schorre-META-II_A_Syntax-oriented_Compiler_Writing_Language.pdf
-└── Strachey-Fundamental_Concepts_in_Programming_Languages.pdf
+├── Strachey-Fundamental_Concepts_in_Programming_Languages.pdf
+└── Travers-Recursive_Interfaces_for_Reactive_Objects.pdf
 listing.txt [error opening dir]
 logic_and_programming
 └── Hewitt-Middle_History_of_Logic_Programming.pdf
@@ -154,4 +157,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-14 directories, 66 files
+15 directories, 68 files
