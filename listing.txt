@@ -83,13 +83,14 @@ languages
 ├── domain-specific-languages
 ├── erlang
 ├── forth
-│   └── Moore-Forth_The_Early_Years.pdf
+│   ├── Moore-Forth_The_Early_Years.pdf
+│   └── von_Thun-Rationale_for_Joy-a_Functional_Language.pdf
 ├── haskell
 ├── lisp
 │   ├── Abelson_Sussman-Lisp_a_Language_for_Stratified_Design.pdf
 │   ├── Hart-MACRO_Definitions_for_LISP.pdf
 │   └── McCarthy-LISP_15_Programmers_Manual.pdf
-├── prolog
+├── logic
 │   ├── Naish-Higher-order_Logic_Programming_in_Prolog.pdf
 │   └── Somogyi-The_Implementation_of_Mercury-An_Efficient_Purely_Declarative_Logic_Programming_Language.pdf
 └── smalltalk
@@ -158,4 +159,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-15 directories, 69 files
+15 directories, 70 files
