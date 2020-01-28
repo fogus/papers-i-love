@@ -41,6 +41,7 @@ data_compression
 data_fusion
 data_replication
 data_science
+└── Codd-A_Relational_Model_of_Data_for_Large_Shared_Data_Banks.pdf
 data_structures
 ├── Bagwell-Ideal_Hash_Trees.pdf
 └── Blelloch-Reis-Miller-Fast_Set_Ops_with_Treaps.pdf
@@ -163,4 +164,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-15 directories, 74 files
+15 directories, 75 files
