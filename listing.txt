@@ -119,7 +119,8 @@ languages-theory
 ├── Iverson-Notation_as_a_Tool_of_Thought.pdf
 ├── Schorre-META-II_A_Syntax-oriented_Compiler_Writing_Language.pdf
 ├── Strachey-Fundamental_Concepts_in_Programming_Languages.pdf
-└── Travers-Recursive_Interfaces_for_Reactive_Objects.pdf
+├── Travers-Recursive_Interfaces_for_Reactive_Objects.pdf
+└── Warth-Worlds-Controlling_the_Scope_of_Side_Effects.pdf
 listing.txt [error opening dir]
 logic_and_programming
 └── Hewitt-Middle_History_of_Logic_Programming.pdf
@@ -166,4 +167,4 @@ unikernels
 user_interfaces
 virtual_machines
 
-15 directories, 77 files
+15 directories, 78 files
