@@ -9,7 +9,8 @@
 │   ├── McCarthy-Mars.pdf
 │   ├── Sutherland-Sketchpad_Report.pdf
 │   ├── Teitleman-Interlisp_Programming_Environment.pdf
-│   └── Weinreb-Lisp_Machine_Manual.pdf
+│   ├── Weinreb-Lisp_Machine_Manual.pdf
+│   └── Yuasa-Design_and_Implementation_of_Kyoto_Common_Lisp.pdf
 ├── artificial_intelligence
 │   ├── Doorenbos-Production_Matching_for_Large_Learning_Systems.pdf
 │   ├── Forgy-Efficient_Implementation_of_Expert_Systems.pdf
@@ -171,4 +172,4 @@
 ├── user_interfaces
 └── virtual_machines
 
-88 directories, 83 files
+88 directories, 84 files
