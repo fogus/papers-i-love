@@ -33,6 +33,7 @@
 │   └── Michie-The_Creative_Computer.pdf
 ├── computer_architecture
 │   ├── Barton-A_New_Approach_to_the_Functional_Design_of_a_New_Computer.pdf
+│   ├── Chapman-A_Writeable_Computer.pdf
 │   ├── Knight-CONS.pdf
 │   └── Sussman-Building_Robust_Systems.pdf
 ├── computer_education
@@ -175,4 +176,4 @@
 ├── user_interfaces
 └── virtual_machines
 
-88 directories, 87 files
+88 directories, 88 files
