@@ -100,7 +100,8 @@
 │   │   ├── Pestov-Factor-A_Dynamic_Stack-based_Programming_Language.pdf
 │   │   └── von_Thun-Rationale_for_Joy-a_Functional_Language.pdf
 │   ├── dataflow
-│   │   └── Ashcroft-Lucid-A_Nonprocedural_Language_with_Iteration.pdf
+│   │   ├── Ashcroft-Lucid-A_Nonprocedural_Language_with_Iteration.pdf
+│   │   └── Clark&Gregory-A-Relational_Language_for_parallel_Programming.pdf
 │   ├── domain-specific-languages
 │   ├── erlang
 │   ├── haskell
@@ -181,4 +182,4 @@
 ├── user_interfaces
 └── virtual_machines
 
-90 directories, 91 files
+90 directories, 92 files
