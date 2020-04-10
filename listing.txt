@@ -109,7 +109,8 @@
 │   ├── lisp
 │   │   ├── Abelson_Sussman-Lisp_a_Language_for_Stratified_Design.pdf
 │   │   ├── Hart-MACRO_Definitions_for_LISP.pdf
-│   │   └── McCarthy-LISP_15_Programmers_Manual.pdf
+│   │   ├── McCarthy-LISP_15_Programmers_Manual.pdf
+│   │   └── Smith-Reflections_and_Semantics_in_Lisp.pdf
 │   ├── logic
 │   │   ├── Naish-Higher-order_Logic_Programming_in_Prolog.pdf
 │   │   └── Somogyi-The_Implementation_of_Mercury-An_Efficient_Purely_Declarative_Logic_Programming_Language.pdf
@@ -184,4 +185,4 @@
 ├── user_interfaces
 └── virtual_machines
 
-90 directories, 94 files
+90 directories, 95 files
