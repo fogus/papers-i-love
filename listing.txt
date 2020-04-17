@@ -92,7 +92,6 @@
 │   └── Uncapher_on_JOSS.pdf
 ├── languages
 │   ├── Bryan-JOSS_Introduction_To_The_System_Implementation.pdf
-│   ├── Kay-STEPS_2012_Progress_and_Final_NSF_Report.pdf
 │   ├── Landin-The_Next_700_Programming_Languages.pdf
 │   ├── clojure
 │   ├── concatenative
@@ -114,6 +113,8 @@
 │   ├── logic
 │   │   ├── Naish-Higher-order_Logic_Programming_in_Prolog.pdf
 │   │   └── Somogyi-The_Implementation_of_Mercury-An_Efficient_Purely_Declarative_Logic_Programming_Language.pdf
+│   ├── scheme
+│   │   └── Rees-T-A_Dialect_of_Lisp_or_LAMBDA_the_Ultimate_Software_Tool.pdf
 │   └── smalltalk
 │       ├── Goldberg-Smalltalk-72_Instruction_Manual.pdf
 │       ├── Ingalls-Design_Principles_Behind_Smalltalk.pdf
@@ -185,4 +186,4 @@
 ├── user_interfaces
 └── virtual_machines
 
-90 directories, 95 files
+91 directories, 95 files
