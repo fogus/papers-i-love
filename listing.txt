@@ -105,6 +105,8 @@
 │   │   └── Clark&Gregory-A-Relational_Language_for_parallel_Programming.pdf
 │   ├── domain-specific-languages
 │   ├── erlang
+│   ├── forth
+│   │   └── fig-forth_1802.pdf
 │   ├── haskell
 │   ├── lisp
 │   │   ├── Abelson_Sussman-Lisp_a_Language_for_Stratified_Design.pdf
@@ -187,4 +189,4 @@
 ├── user_interfaces
 └── virtual_machines
 
-91 directories, 96 files
+92 directories, 97 files
