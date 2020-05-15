@@ -35,7 +35,8 @@
 │   ├── Barton-A_New_Approach_to_the_Functional_Design_of_a_New_Computer.pdf
 │   ├── Chapman-A_Writeable_Computer.pdf
 │   ├── Knight-CONS.pdf
-│   └── Sussman-Building_Robust_Systems.pdf
+│   ├── Sussman-Building_Robust_Systems.pdf
+│   └── Zippel-Capsules.pdf
 ├── computer_education
 ├── computer_graphics
 ├── computer_vision
@@ -189,4 +190,4 @@
 ├── user_interfaces
 └── virtual_machines
 
-92 directories, 97 files
+92 directories, 98 files
