@@ -17,6 +17,7 @@
 │   ├── Forgy-Efficient_Implementation_of_Expert_Systems.pdf
 │   ├── Lenat-Beings.pdf
 │   ├── McCarthy-Programs_With_Common_Sense.pdf
+│   ├── McCarthy-Situations_Actions_and_Causal_Laws.pdf
 │   ├── Minsky-Steps_Toward_Artificial_Intelligence.pdf
 │   └── Winograd-Procedures_as_a_Representation_for_Data_in_a_Computer_Program_for_Understanding_Natural_Language.pdf
 ├── audio_comp_sci
@@ -192,4 +193,4 @@
 ├── user_interfaces
 └── virtual_machines
 
-92 directories, 100 files
+92 directories, 101 files
