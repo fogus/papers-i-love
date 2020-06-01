@@ -39,6 +39,7 @@
 │   ├── Sussman-Building_Robust_Systems.pdf
 │   └── Zippel-Capsules.pdf
 ├── computer_education
+│   ├── Kay-A_Personal_Computer_for_Children_of_All_Ages.pdf
 │   └── Maxwell-Tracing_the_Dynabook.pdf
 ├── computer_graphics
 ├── computer_vision
@@ -193,4 +194,4 @@
 ├── user_interfaces
 └── virtual_machines
 
-92 directories, 101 files
+92 directories, 102 files
