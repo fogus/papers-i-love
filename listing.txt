@@ -101,7 +101,6 @@
 │   ├── clojure
 │   ├── concatenative
 │   │   ├── Moore-Forth_A_Language_for_Interactive_Computing.pdf
-│   │   ├── Moore-Forth_The_Early_Years.pdf
 │   │   ├── Pestov-Factor-A_Dynamic_Stack-based_Programming_Language.pdf
 │   │   └── von_Thun-Rationale_for_Joy-a_Functional_Language.pdf
 │   ├── dataflow
@@ -110,8 +109,9 @@
 │   ├── domain-specific-languages
 │   ├── erlang
 │   ├── forth
+│   │   ├── FIG-Forth_1802.pdf
 │   │   ├── Moore-Forth_The_Early_Years.pdf
-│   │   └── fig-forth_1802.pdf
+│   │   └── Rather-Forth_Approach_to_Operating_systems.pdf
 │   ├── haskell
 │   ├── lisp
 │   │   ├── Abelson_Sussman-Lisp_a_Language_for_Stratified_Design.pdf
