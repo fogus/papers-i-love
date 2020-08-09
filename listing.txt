@@ -111,7 +111,8 @@
 │   ├── forth
 │   │   ├── FIG-Forth_1802.pdf
 │   │   ├── Moore-Forth_The_Early_Years.pdf
-│   │   └── Rather-Forth_Approach_to_Operating_systems.pdf
+│   │   ├── Rather-Forth_Approach_to_Operating_systems.pdf
+│   │   └── Ting-Systems_Guide_to_figForth.pdf
 │   ├── haskell
 │   ├── lisp
 │   │   ├── Abelson_Sussman-Lisp_a_Language_for_Stratified_Design.pdf
@@ -197,4 +198,4 @@
 ├── user_interfaces
 └── virtual_machines
 
-92 directories, 105 files
+92 directories, 106 files
