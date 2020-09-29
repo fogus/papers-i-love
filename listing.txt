@@ -91,7 +91,8 @@
 │   ├── Bush-Memex_Revisited.pdf
 │   ├── Engelbart-Augmenting_Human_Intellect.pdf
 │   ├── Engelbart-Improving_Our_Ability_to_Improve.pdf
-│   └── Licklider-Man-Computer_Symbiosis.pdf
+│   ├── Licklider-Man-Computer_Symbiosis.pdf
+│   └── Teitelman-Man-Computer_Symbiosis.pdf
 ├── interviews
 │   ├── Aspray-Licklider_Interview.pdf
 │   ├── McJones-Taylor_Oral_History.pdf
@@ -201,4 +202,4 @@
 ├── user_interfaces
 └── virtual_machines
 
-93 directories, 108 files
+93 directories, 109 files
