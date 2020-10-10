@@ -1,8 +1,5 @@
 .
 ├── README.md
-├── affective-computing
-├── android
-├── api_design
 ├── applications
 │   ├── Cannon-Flavors-A_Non-hierarchical_Approach_to_Object-oriented_Programming.pdf
 │   ├── Kay-Opening_the_Hood_of_a_Word_Processor.pdf
@@ -20,11 +17,8 @@
 │   ├── McCarthy-Situations_Actions_and_Causal_Laws.pdf
 │   ├── Minsky-Steps_Toward_Artificial_Intelligence.pdf
 │   └── Winograd-Procedures_as_a_Representation_for_Data_in_a_Computer_Program_for_Understanding_Natural_Language.pdf
-├── audio_comp_sci
-├── biocomputing
 ├── caching
 │   └── Jiang-LIRS_An_Efficient_Low_Interreference_Recency_Set_Replacement_Policy_to_Improve_Buffer_Cache_Performance.pdf
-├── combinatory_logic
 ├── comp_sci_fundamentals_and_history
 │   ├── Hoare-An_Axiomatic_Basis_for_Computer_Programming.pdf
 │   ├── Kay-The_Real_Computer_Revolution_Hasnt_Happened_Yet.pdf
@@ -41,15 +35,8 @@
 ├── computer_education
 │   ├── Kay-A_Personal_Computer_for_Children_of_All_Ages.pdf
 │   └── Maxwell-Tracing_the_Dynabook.pdf
-├── computer_graphics
-├── computer_vision
-├── concurrency
-├── crash_only
-├── cryptography
 ├── data_compression
 │   └── Armstrong-Getting_Erlang_to_Talk_to_the_Outside_World.pdf
-├── data_fusion
-├── data_replication
 ├── data_science
 │   └── Codd-A_Relational_Model_of_Data_for_Large_Shared_Data_Banks.pdf
 ├── data_structures
@@ -70,22 +57,14 @@
 │   ├── Lamport-Time_Clocks_and_the_Ordering_of_Events_in_a_Distributed_System.pdf
 │   ├── Licklider-Intergalactic_Network.pdf
 │   └── Sussman-Art_of_the_Propagator.pdf
-├── economics
 ├── education
 │   └── Allen-Whither_Software_Engineering.pdf
-├── ethics
-├── experimental_algorithmics
 ├── faults_and_verification
 │   └── Findler-Contracts_for_Higher-Order_Functions.pdf
-├── game_theory
 ├── games
 │   └── Aicholzer-Playing_Pylos_with_an_Autonomous_Robot.pdf
-├── gamification
 ├── garbage_collection
 │   └── Edwards-LISP_II_Garbage_Collector.pdf
-├── gossip
-├── information_retrieval
-├── information_theory
 ├── intelligence_amplification
 │   ├── Bush-As_We_May_Think.pdf
 │   ├── Bush-Memex_Revisited.pdf
@@ -101,7 +80,6 @@
 │   ├── Bryan-JOSS_Introduction_To_The_System_Implementation.pdf
 │   ├── Kay-STEPS_2012_Progress_and_Final_NSF_Report.pdf
 │   ├── Landin-The_Next_700_Programming_Languages.pdf
-│   ├── clojure
 │   ├── concatenative
 │   │   ├── Moore-Forth_A_Language_for_Interactive_Computing.pdf
 │   │   ├── Pestov-Factor-A_Dynamic_Stack-based_Programming_Language.pdf
@@ -109,14 +87,11 @@
 │   ├── dataflow
 │   │   ├── Ashcroft-Lucid-A_Nonprocedural_Language_with_Iteration.pdf
 │   │   └── Clark&Gregory-A-Relational_Language_for_parallel_Programming.pdf
-│   ├── domain-specific-languages
-│   ├── erlang
 │   ├── forth
-│   │   ├── FIG-Forth_1802.pdf
 │   │   ├── Moore-Forth_The_Early_Years.pdf
 │   │   ├── Rather-Forth_Approach_to_Operating_systems.pdf
-│   │   └── Ting-Systems_Guide_to_figForth.pdf
-│   ├── haskell
+│   │   ├── Ting-Systems_Guide_to_figForth.pdf
+│   │   └── fig-forth_1802.pdf
 │   ├── lisp
 │   │   ├── Abelson_Sussman-Lisp_a_Language_for_Stratified_Design.pdf
 │   │   ├── Hart-MACRO_Definitions_for_LISP.pdf
@@ -124,7 +99,8 @@
 │   │   └── Smith-Reflections_and_Semantics_in_Lisp.pdf
 │   ├── logic
 │   │   ├── Naish-Higher-order_Logic_Programming_in_Prolog.pdf
-│   │   └── Somogyi-The_Implementation_of_Mercury-An_Efficient_Purely_Declarative_Logic_Programming_Language.pdf
+│   │   ├── Somogyi-The_Implementation_of_Mercury-An_Efficient_Purely_Declarative_Logic_Programming_Language.pdf
+│   │   └── Warren-An_Abstract_Prolog_Instruction_Set.pdf
 │   ├── scheme
 │   │   ├── Lang-Oaklisp_An_OO_Scheme_with_First_Class_Types.pdf
 │   │   └── Rees-T-A_Dialect_of_Lisp_or_LAMBDA_the_Ultimate_Software_Tool.pdf
@@ -139,8 +115,6 @@
 │   ├── Ungar-Organizing_Programs_Without_Classes.pdf
 │   ├── functional_programming
 │   │   └── Peyton-Jones-A_User-Centred_Approach_to_Functions_in_Excel.pdf
-│   ├── functional_reactive_programming
-│   ├── new_paradigms
 │   └── object_oriented_programming
 │       └── Steele-Object-Oriented_Units_of_Measurement.pdf
 ├── languages-theory
@@ -156,50 +130,23 @@
 ├── listing.txt
 ├── logic_and_programming
 │   └── Hewitt-Middle_History_of_Logic_Programming.pdf
-├── machine_learning
-│   └── dimensionality_reduction
-├── macros
 ├── mathematics
 │   └── McCarthy-A_Basis_for_a_Mathematical_Theory_of_Computation.pdf
-├── memory_management
 ├── networks
 │   └── Clark-The_Design_Philosophy_of_the_DARPA_Internet_Protocols.pdf
-├── non_blocking_algorithms
 ├── operating_systems
 │   ├── Dunkels-Contiki.pdf
 │   ├── Lampson-An_Open_Operating_System_for_a_Single-User_Machine.pdf
 │   ├── Lampson-Hints_for_Computer_System_Design.pdf
 │   └── Massalin-Synthesis-An_Efficient_Implementation_of_Fundamental_Operating_System_Services.pdf
-├── pattern_matching
-├── pattern_stringology
 ├── philosophy
 │   ├── Lapham-The_Eternal_Now.pdf
 │   ├── Nelson-ComputerLib_DreamMachines.pdf
 │   ├── Nelson-The_Crafting_of_Media.pdf
-│   ├── Sussman-Robust_Design_Through_Diversity.pdf
-│   └── culture
-├── physics
-├── privacy
-├── processes
-├── quantum_computing
-├── robotics
-├── security
-├── simulation
-├── software_engineering_orgs
-├── speech_recognition
-├── sports_analytics
-├── streaming_algorithms
-├── sublinear_algorithms
-├── systematic_review
+│   └── Sussman-Robust_Design_Through_Diversity.pdf
 ├── systems_modeling
 │   └── Gabriel-Incommensurability.pdf
-├── testing
-│   └── tdd
-├── text
-│   └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
-├── time_series
-├── unikernels
-├── user_interfaces
-└── virtual_machines
+└── text
+    └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-93 directories, 109 files
+39 directories, 110 files
