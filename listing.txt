@@ -107,6 +107,7 @@
 │   └── smalltalk
 │       ├── Goldberg-Smalltalk-72_Instruction_Manual.pdf
 │       ├── Ingalls-Design_Principles_Behind_Smalltalk.pdf
+│       ├── Ingalls-Evolution_of_Smalltalk.pdf
 │       └── Kay-The_Early_History_of_Smalltalk.pdf
 ├── languages-paradigms
 │   ├── Backus-Can_Programming_Be_Liberated.pdf
@@ -149,4 +150,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-39 directories, 110 files
+39 directories, 111 files
