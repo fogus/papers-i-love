@@ -28,6 +28,7 @@
 │   └── Michie-The_Creative_Computer.pdf
 ├── computer_architecture
 │   ├── Barton-A_New_Approach_to_the_Functional_Design_of_a_New_Computer.pdf
+│   ├── Bowman-J1-A_Small_Forth_CPU_Core_for_FPGAs.pdf
 │   ├── Chapman-A_Writeable_Computer.pdf
 │   ├── Knight-CONS.pdf
 │   ├── Sussman-Building_Robust_Systems.pdf
@@ -153,4 +154,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-39 directories, 114 files
+39 directories, 115 files
