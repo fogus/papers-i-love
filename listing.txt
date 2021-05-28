@@ -89,6 +89,8 @@
 │   │   ├── Ashcroft-Lucid-A_Nonprocedural_Language_with_Iteration.pdf
 │   │   └── Clark&Gregory-A-Relational_Language_for_parallel_Programming.pdf
 │   ├── forth
+│   │   ├── Bell-Threaded_Code.pdf
+│   │   ├── Dewar-Indirect_Threaded_Code.pdf
 │   │   ├── Moore-Forth_The_Early_Years.pdf
 │   │   ├── Rather-Forth_Approach_to_Operating_systems.pdf
 │   │   ├── Ting-Systems_Guide_to_figForth.pdf
@@ -154,4 +156,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-39 directories, 115 files
+39 directories, 117 files
