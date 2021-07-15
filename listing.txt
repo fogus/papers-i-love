@@ -149,6 +149,7 @@
 │   └── Massalin-Synthesis-An_Efficient_Implementation_of_Fundamental_Operating_System_Services.pdf
 ├── philosophy
 │   ├── Lapham-The_Eternal_Now.pdf
+│   ├── McCarthy-Some_Philosophical_Problems_from_the_Standpoint_of_Artificial_Intelligence.pdf
 │   ├── Nelson-ComputerLib_DreamMachines.pdf
 │   ├── Nelson-The_Crafting_of_Media.pdf
 │   └── Sussman-Robust_Design_Through_Diversity.pdf
@@ -157,4 +158,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-39 directories, 118 files
+39 directories, 119 files
