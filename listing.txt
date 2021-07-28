@@ -32,6 +32,9 @@
 │   ├── Chapman-A_Writeable_Computer.pdf
 │   ├── Knight-CONS.pdf
 │   ├── Sussman-Building_Robust_Systems.pdf
+│   ├── Weisbecker-FRED-Manual.pdf
+│   ├── Weisbecker-Simplifying_Microcomputer_Architecture.pdf
+│   ├── Weisbecker-System-00-Manual.pdf
 │   └── Zippel-Capsules.pdf
 ├── computer_education
 │   ├── Kay-A_Personal_Computer_for_Children_of_All_Ages.pdf
@@ -158,4 +161,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-39 directories, 119 files
+39 directories, 122 files
