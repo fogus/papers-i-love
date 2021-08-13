@@ -84,6 +84,8 @@
 │   ├── Bryan-JOSS_Introduction_To_The_System_Implementation.pdf
 │   ├── Kay-STEPS_2012_Progress_and_Final_NSF_Report.pdf
 │   ├── Landin-The_Next_700_Programming_Languages.pdf
+│   ├── Lisp-One-Pager.png
+│   ├── Smalltalk-One-Pager.png
 │   ├── concatenative
 │   │   ├── Moore-Forth_A_Language_for_Interactive_Computing.pdf
 │   │   ├── Pestov-Factor-A_Dynamic_Stack-based_Programming_Language.pdf
@@ -161,4 +163,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-39 directories, 122 files
+39 directories, 124 files
