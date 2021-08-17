@@ -106,7 +106,8 @@
 │   │   ├── Abelson_Sussman-Lisp_a_Language_for_Stratified_Design.pdf
 │   │   ├── Hart-MACRO_Definitions_for_LISP.pdf
 │   │   ├── McCarthy-LISP_15_Programmers_Manual.pdf
-│   │   └── Smith-Reflections_and_Semantics_in_Lisp.pdf
+│   │   ├── Smith-Reflections_and_Semantics_in_Lisp.pdf
+│   │   └── Tesler-LISP70_Pattern_Matching_System.pdf
 │   ├── logic
 │   │   ├── Naish-Higher-order_Logic_Programming_in_Prolog.pdf
 │   │   ├── Somogyi-The_Implementation_of_Mercury-An_Efficient_Purely_Declarative_Logic_Programming_Language.pdf
@@ -165,4 +166,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-39 directories, 126 files
+39 directories, 127 files
