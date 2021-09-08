@@ -134,6 +134,7 @@
 │   ├── Ernst-Predicate_Dispatch.pdf
 │   ├── Fisher-Control_Structures_for_Programming_Languages.pdf
 │   ├── Iverson-Notation_as_a_Tool_of_Thought.pdf
+│   ├── Kay-FLEX-A_Flexible_Extendable_Language.pdf
 │   ├── Samet-Deep_and_Shallow_Binding.pdf
 │   ├── Scharli-Traits-Composable_Units_of_Behaviour.pdf
 │   ├── Schorre-META-II_A_Syntax-oriented_Compiler_Writing_Language.pdf
@@ -154,7 +155,8 @@
 │   ├── Dunkels-Contiki.pdf
 │   ├── Lampson-An_Open_Operating_System_for_a_Single-User_Machine.pdf
 │   ├── Lampson-Hints_for_Computer_System_Design.pdf
-│   └── Massalin-Synthesis-An_Efficient_Implementation_of_Fundamental_Operating_System_Services.pdf
+│   ├── Massalin-Synthesis-An_Efficient_Implementation_of_Fundamental_Operating_System_Services.pdf
+│   └── Walker-Locus_Distributed_Operating_System.pdf
 ├── philosophy
 │   ├── Lapham-The_Eternal_Now.pdf
 │   ├── McCarthy-Some_Philosophical_Problems_from_the_Standpoint_of_Artificial_Intelligence.pdf
@@ -166,4 +168,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-39 directories, 127 files
+39 directories, 129 files
