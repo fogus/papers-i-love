@@ -164,8 +164,9 @@
 │   ├── Nelson-The_Crafting_of_Media.pdf
 │   └── Sussman-Robust_Design_Through_Diversity.pdf
 ├── systems_modeling
-│   └── Gabriel-Incommensurability.pdf
+│   ├── Gabriel-Incommensurability.pdf
+│   └── Hoare-Communicating_Sequential_Processes.pdf
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-39 directories, 129 files
+39 directories, 130 files
