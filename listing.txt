@@ -68,7 +68,8 @@
 ├── faults_and_verification
 │   └── Findler-Contracts_for_Higher-Order_Functions.pdf
 ├── games
-│   └── Aicholzer-Playing_Pylos_with_an_Autonomous_Robot.pdf
+│   ├── Aicholzer-Playing_Pylos_with_an_Autonomous_Robot.pdf
+│   └── McCarthy-Chess_as_the_Drosophila_of_AI.pdf
 ├── garbage_collection
 │   └── Edwards-LISP_II_Garbage_Collector.pdf
 ├── intelligence_amplification
@@ -171,4 +172,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-39 directories, 132 files
+39 directories, 133 files
