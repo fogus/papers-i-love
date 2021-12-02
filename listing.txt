@@ -121,7 +121,9 @@
 │   ├── scheme
 │   │   ├── Asai-Duplication_and_Partial_Evaluation.pdf
 │   │   ├── Lang-Oaklisp_An_OO_Scheme_with_First_Class_Types.pdf
-│   │   └── Rees-T-A_Dialect_of_Lisp_or_LAMBDA_the_Ultimate_Software_Tool.pdf
+│   │   ├── Rees-T-A_Dialect_of_Lisp_or_LAMBDA_the_Ultimate_Software_Tool.pdf
+│   │   └── lambda-papers
+│   │       └── 01-Steele-Sussman-Scheme_An_Interpreter_for_Extended_Lambda_Calculus.pdf
 │   └── smalltalk
 │       ├── Goldberg-Smalltalk-72_Instruction_Manual.pdf
 │       ├── Ingalls-Design_Principles_Behind_Smalltalk.pdf
@@ -175,4 +177,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-39 directories, 136 files
+40 directories, 137 files
