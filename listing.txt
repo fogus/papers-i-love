@@ -106,6 +106,7 @@
 │   │   ├── Bell-Threaded_Code.pdf
 │   │   ├── Dewar-Indirect_Threaded_Code.pdf
 │   │   ├── Moore-Forth_The_Early_Years.pdf
+│   │   ├── Patel-Vagen_mot_en_minimal_Forth_arkitektur.pdf
 │   │   ├── Rather-Forth_Approach_to_Operating_systems.pdf
 │   │   ├── Ting-Systems_Guide_to_figForth.pdf
 │   │   └── fig-forth_1802.pdf
@@ -179,4 +180,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-40 directories, 139 files
+40 directories, 140 files
