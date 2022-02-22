@@ -131,6 +131,7 @@
 │       ├── Goldberg-Smalltalk-72_Instruction_Manual.pdf
 │       ├── Ingalls-Design_Principles_Behind_Smalltalk.pdf
 │       ├── Ingalls-Evolution_of_Smalltalk.pdf
+│       ├── Ingalls-The_Smalltalk-76_Programming_System_Design_and_Implementation.pdf
 │       └── Kay-The_Early_History_of_Smalltalk.pdf
 ├── languages-paradigms
 │   ├── Backus-Can_Programming_Be_Liberated.pdf
@@ -173,11 +174,12 @@
 │   ├── McCarthy-Some_Philosophical_Problems_from_the_Standpoint_of_Artificial_Intelligence.pdf
 │   ├── Nelson-ComputerLib_DreamMachines.pdf
 │   ├── Nelson-The_Crafting_of_Media.pdf
-│   └── Sussman-Robust_Design_Through_Diversity.pdf
+│   ├── Sussman-Robust_Design_Through_Diversity.pdf
+│   └── Turing-On_Computable_Numbers.pdf
 ├── systems_modeling
 │   ├── Gabriel-Incommensurability.pdf
 │   └── Hoare-Communicating_Sequential_Processes.pdf
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-40 directories, 140 files
+40 directories, 142 files
