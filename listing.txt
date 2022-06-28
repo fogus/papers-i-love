@@ -36,6 +36,7 @@
 │   ├── Bowman-J1-A_Small_Forth_CPU_Core_for_FPGAs.pdf
 │   ├── Chapman-A_Writeable_Computer.pdf
 │   ├── Greenblatt-Lisp_Machine.pdf
+│   ├── Henderson-Purely_Functional_Operating_Systems.pdf
 │   ├── Knight-CONS.pdf
 │   ├── Sussman-Building_Robust_Systems.pdf
 │   ├── Weisbecker-FRED-Manual.pdf
@@ -182,4 +183,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-40 directories, 142 files
+40 directories, 143 files
