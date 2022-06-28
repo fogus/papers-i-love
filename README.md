@@ -14,6 +14,7 @@ It's very difficult to pick only a handful and call them my favorites. I've [tri
     ├── McCarthy-Recursive_Functions_of_Symbolic_Expressions_and_Their_Computation_by_Machine_Part_1.pdf
 	/computer_architecture
     ├── Barton-A_New_Approach_to_the_Functional_Design_of_a_New_Computer.pdf
+	├── Henderson-Purely_Functional_Operating_Systems.pdf
 	/design
     └── Moseley-Out_of_the_Tarpit.pdf
 	/intelligence_amplification
