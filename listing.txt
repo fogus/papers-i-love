@@ -170,6 +170,7 @@
 │   ├── Dunkels-Contiki.pdf
 │   ├── Lampson-An_Open_Operating_System_for_a_Single-User_Machine.pdf
 │   ├── Lampson-Hints_for_Computer_System_Design.pdf
+│   ├── Lampson-Reflections_on_an_Operating_System_Design.pdf
 │   ├── Massalin-Synthesis-An_Efficient_Implementation_of_Fundamental_Operating_System_Services.pdf
 │   └── Walker-Locus_Distributed_Operating_System.pdf
 ├── philosophy
@@ -185,4 +186,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-40 directories, 145 files
+40 directories, 146 files
