@@ -15,6 +15,7 @@
 │   ├── Forgy-OPS_A_Domain_Independent_Production_System_Language.pdf
 │   ├── Hewitt-PLANNER.pdf
 │   ├── Lenat-Beings.pdf
+│   ├── Lenat-EURISKO_A_program_that_learns_new_heuristics_and_domain_concepts.pdf
 │   ├── McCarthy-Dartmouth.pdf
 │   ├── McCarthy-Programs_With_Common_Sense.pdf
 │   ├── McCarthy-Situations_Actions_and_Causal_Laws.pdf
@@ -186,4 +187,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-40 directories, 146 files
+40 directories, 147 files
