@@ -14,6 +14,7 @@
 │   ├── Forgy-Efficient_Implementation_of_Expert_Systems.pdf
 │   ├── Forgy-OPS_A_Domain_Independent_Production_System_Language.pdf
 │   ├── Hewitt-PLANNER.pdf
+│   ├── Lenat-AM_An_Artificial_Intelligence_Approach_to_Discovery_in_Mathematics_as_Heuristic_Search.pdf
 │   ├── Lenat-Beings.pdf
 │   ├── Lenat-EURISKO_A_program_that_learns_new_heuristics_and_domain_concepts.pdf
 │   ├── McCarthy-Dartmouth.pdf
@@ -187,4 +188,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-40 directories, 147 files
+40 directories, 148 files
