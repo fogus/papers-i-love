@@ -12,6 +12,7 @@
 ├── artificial_intelligence
 │   ├── Doorenbos-Production_Matching_for_Large_Learning_Systems.pdf
 │   ├── Doyle-Reflexive_Interpreters.pdf
+│   ├── Doyle-Truth_Maintenance_Systems_for_Learning.pdf
 │   ├── Forgy-Efficient_Implementation_of_Expert_Systems.pdf
 │   ├── Forgy-OPS_A_Domain_Independent_Production_System_Language.pdf
 │   ├── Hewitt-PLANNER.pdf
@@ -189,4 +190,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-40 directories, 149 files
+40 directories, 150 files
