@@ -157,6 +157,7 @@
 │   ├── Samet-Deep_and_Shallow_Binding.pdf
 │   ├── Scharli-Traits-Composable_Units_of_Behaviour.pdf
 │   ├── Schorre-META-II_A_Syntax-oriented_Compiler_Writing_Language.pdf
+│   ├── Shannon-A_Mathematical_Theory_of_Communication.pdf
 │   ├── Strachey-Fundamental_Concepts_in_Programming_Languages.pdf
 │   ├── Travers-Recursive_Interfaces_for_Reactive_Objects.pdf
 │   ├── Ueda-Guarded_Horn_Clauses.pdf
@@ -192,4 +193,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-40 directories, 152 files
+40 directories, 153 files
