@@ -160,6 +160,7 @@
 │   ├── Shannon-A_Mathematical_Theory_of_Communication.pdf
 │   ├── Strachey-Fundamental_Concepts_in_Programming_Languages.pdf
 │   ├── Travers-Recursive_Interfaces_for_Reactive_Objects.pdf
+│   ├── Turing-Computing_Machinery_and_Intelligence.pdf
 │   ├── Ueda-Guarded_Horn_Clauses.pdf
 │   ├── Warth-Worlds-Controlling_the_Scope_of_Side_Effects.pdf
 │   └── Wirth-EULER-A_Generalization_of_ALGOL_and_its_Formal_Definition.pdf
@@ -193,4 +194,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-40 directories, 153 files
+40 directories, 154 files
