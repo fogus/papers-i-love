@@ -184,11 +184,12 @@
 │   ├── Nelson-ComputerLib_DreamMachines.pdf
 │   ├── Nelson-The_Crafting_of_Media.pdf
 │   ├── Sussman-Robust_Design_Through_Diversity.pdf
-│   └── Turing-On_Computable_Numbers.pdf
+│   ├── Turing-On_Computable_Numbers.pdf
+│   └── Wiener-Behavior_Purpose_and_Teleology.pdf
 ├── systems_modeling
 │   ├── Gabriel-Incommensurability.pdf
 │   └── Hoare-Communicating_Sequential_Processes.pdf
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-40 directories, 151 files
+40 directories, 152 files
