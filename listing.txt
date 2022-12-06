@@ -24,6 +24,7 @@
 │   ├── McCarthy-Situations_Actions_and_Causal_Laws.pdf
 │   ├── Minsky-Framework_for_Representing_Knowledge.pdf
 │   ├── Minsky-Steps_Toward_Artificial_Intelligence.pdf
+│   ├── Mitchell-Version_Spaces.pdf
 │   ├── Newell-Simon-Logic_Theory_Machine.pdf
 │   └── Winograd-Procedures_as_a_Representation_for_Data_in_a_Computer_Program_for_Understanding_Natural_Language.pdf
 ├── caching
@@ -190,4 +191,4 @@
 └── text
     └── Tesler-A_Personal_History_of_Modeless_Text_Editing_and_Cut-Copy-Paste.pdf
 
-40 directories, 150 files
+40 directories, 151 files
